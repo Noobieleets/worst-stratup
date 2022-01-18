@@ -1,2 +1,2 @@
 # worst-stratup
-test test test
+https://github.com/Noobieleets/worst-stratup.git
