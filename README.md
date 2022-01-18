@@ -1,2 +1,2 @@
 # worst-stratup
-https://github.com/Noobieleets/worst-stratup.git
+https://noobieleets.github.io/worst-stratup/
